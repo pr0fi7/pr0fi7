@@ -18,4 +18,4 @@ Aloha! I'm Mark, a data science enthusiast with a passion for robotics. Currentl
 
 🔮 **Belief:** People lack free will; determinism shapes our world.
 
-Connect with me on [LinkedIn](www.linkedin.com/in/mark-shevchenko-218149259) 🌐✨
+Connect with me on [LinkedIn](https://www.linkedin.com/in/mark-shevchenko-218149259) 🌐✨
