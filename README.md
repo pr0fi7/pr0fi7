@@ -1,16 +1,21 @@
-### Hi there 👋
+🌟 **Welcome to Mark's Data Science Playground!** 🌟
 
-<!--
-**pr0fi7/pr0fi7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aloha! I'm Mark, a data science enthusiast with a passion for robotics. Currently, I'm learning at BeCode.
 
-Here are some ideas to get you started:
+🚀 **Current Project:** Developing algorithms to predict financial market movements.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤖 **Dream Project:** Combining data science and engineering to build a fully functional robot.
+
+💡 **Skills:**
+- Python
+- SQL
+- Matplotlib
+- Scikit-learn
+- Docker
+- more
+
+🏔️ **Outside the Lab:** Hiking, climbing, and judo are my jam.
+
+🔮 **Belief:** People lack free will; determinism shapes our world.
+
+Connect with me on [LinkedIn](www.linkedin.com/in/mark-shevchenko-218149259) 🌐✨
