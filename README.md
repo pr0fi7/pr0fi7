@@ -1,4 +1,4 @@
-🌟 **Welcome to Mark's Data Science Playground!** 🌟
+🌟 **Welcome to Data Science Playground!** 🌟
 
 Aloha! I'm Mark, a data science enthusiast with a passion for robotics. Currently, I'm learning at BeCode.
 
